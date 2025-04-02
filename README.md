@@ -122,4 +122,4 @@ This project has practical applications in the insurance industry. By understand
 
 ## Jupyter Notebook
 
-The complete code and output for this project can be found in the [IBM project.ipynb](IBM%20project.ipynb) file. GitHub renders Jupyter Notebooks, allowing you to view the code and its results directly.
+The complete code and output for this project can be found in the ( https://github.com/kenny755/Insurance-Cost-Analysis/blob/master/IBM%20project.ipynb ). The code and the dataset used in this analysis can be found in the link attached.
