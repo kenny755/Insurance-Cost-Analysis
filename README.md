@@ -132,8 +132,6 @@ Feel free to explore the code and data in this repository. If you have any quest
 The complete code and output for this project can be found in the [IBM project.ipynb](IBM%20project.ipynb) file. GitHub renders Jupyter Notebooks, allowing you to view the code and its results directly.
 
 
-# Insurance Cost Analysis
-
 
 ## Complete dataset, code and Output for this project
 
