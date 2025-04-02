@@ -15,7 +15,7 @@ This project analyzes insurance cost data to understand the factors that influen
     * [Key Steps](#key-steps)
 5.  [Real-Life Application](#real-life-application)
 6.  [Conclusion](#conclusion)
-7.  [Complete dataset, code and Output for this project] (#Complete-dataset,-code-and-Output-for-this-project)
+7.  [Complete dataset, code and Output for this project](#Complete-dataset,-code-and-Output-for-this-project)
 
 ## Project Overview
 
