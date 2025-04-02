@@ -1,4 +1,5 @@
 # Insurance Cost Analysis
+[![Insurance Cost Analysis Banner](https://via.placeholder.com/800x250?text=Insurance+Cost+Analysis)](https://via.placeholder.com/800x250?text=Insurance+Cost+Analysis)
 
 This project analyzes insurance cost data to understand the factors that influence insurance charges. It explores relationships between various features like age, BMI, smoking habits, and region, and builds a linear regression model to predict insurance costs.
 
