@@ -1,6 +1,6 @@
 # Insurance Cost Analysis
 
-[![https://github.com/kenny755/Insurance-Cost-Analysis/blob/main/article-1-45-730.jpg?raw=true]
+[![image alt](https://github.com/kenny755/Insurance-Cost-Analysis/blob/main/article-1-45-730.jpg?raw=true)
 
 This project analyzes insurance cost data to understand the factors that influence insurance charges. It explores relationships between various features like age, BMI, smoking habits, and region, and builds a linear regression model to predict insurance costs.
 
