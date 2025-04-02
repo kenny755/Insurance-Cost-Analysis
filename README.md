@@ -128,9 +128,6 @@ This project successfully demonstrates how data analysis and machine learning ca
 
 Feel free to explore the code and data in this repository. If you have any questions or suggestions, please don't hesitate to reach out.
 
-## Jupyter Notebook
-
-The complete code and output for this project can be found in the [IBM project.ipynb](IBM%20project.ipynb) file. GitHub renders Jupyter Notebooks, allowing you to view the code and its results directly.
 
 
 
