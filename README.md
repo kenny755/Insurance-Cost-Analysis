@@ -114,3 +114,12 @@ This project has practical applications in the insurance industry. By understand
 * **Pricing Strategies:** Develop more accurate and fair pricing models.
 * **Risk Assessment:** Identify high-risk individuals and adjust premiums accordingly.
 * **Customer Insights
+  
+
+
+# Insurance Cost Analysis
+
+
+## Jupyter Notebook
+
+The complete code and output for this project can be found in the [IBM project.ipynb](IBM%20project.ipynb) file. GitHub renders Jupyter Notebooks, allowing you to view the code and its results directly.
